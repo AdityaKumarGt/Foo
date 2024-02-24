@@ -41,4 +41,4 @@ https://github.com/AdityaKumarGt/Food-Recipe-App--CleanArchitecture/assets/12102
 
 
 ## Acknowledgments
-- [Free Meal API 'TheMealDB']([https://unsplash.com/developers](https://www.themealdb.com/api.php))
+- [Free Meal API 'TheMealDB'](https://unsplash.com/developers](https://www.themealdb.com/api.php))
