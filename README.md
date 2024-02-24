@@ -36,5 +36,9 @@ https://github.com/AdityaKumarGt/Food-Recipe-App--CleanArchitecture/assets/12102
 - Dagger Hilt for Dependency Injection
 - Glide for Image Loading
 - Jetpack Navigation library for Navigation
-- Kotlin Coroutines & Flows, for Asynchronous and Reactive Programming
+- Kotlin Coroutines & Flows
 - Retrofit for Rest API integration
+
+
+## Acknowledgments
+- [Free Meal API 'TheMealDB']([https://unsplash.com/developers](https://www.themealdb.com/api.php))
